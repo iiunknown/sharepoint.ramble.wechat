@@ -21,14 +21,14 @@ New-OfficeWebAppsFarm -InternalUrl "https://wac01.contoso.com" -ExternalUrl "htt
 ```powershell
 New-SPWOPIBinding -ServerName wac01.contoso.com
 ```
-    > 参考：https://technet.microsoft.com/zh-cn/library/ff431687.aspx
+> 参考：https://technet.microsoft.com/zh-cn/library/ff431687.aspx
 
 
-> 注意：
+## 注意
 
-    > - 如果SharePoint站点使用HTTP协议，集成OWA需要使用HTTP协议。
+- 如果SharePoint站点使用HTTP协议，集成OWA需要使用HTTP协议。
 
-    > - 如果SharePoint站点使用HTTPS协议，集成OWA需使用HTTPS协议。
+- 如果SharePoint站点使用HTTPS协议，集成OWA需使用HTTPS协议。
 
     >   例如：
     ```powershell
