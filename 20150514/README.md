@@ -35,10 +35,13 @@ New-SPWOPIBinding -ServerName wac01.contoso.com
     New-OfficeWebAppsFarm -InternalUrl "https://wac01.contoso.com" -ExternalUrl "https://wac01.contoso.com" -CertificateName "WAC-CA" –EditingEnabled -ClipartEnabled –TranlationEnabled
     ```
 
-    >  - 绑定的是证书`名称`![证书名称图示](imgs/20150514.001.png)
-    >  - 从MMC打开证书管理器，看到的名称是`友好名称`![](imgs/20150514.002.png)
+    >  - 绑定的是证书`名称`
+        ![证书名称图示](imgs/20150514.001.png)
+    >  - 从MMC打开证书管理器，看到的名称是`友好名称`
+        ![](imgs/20150514.002.png)
 
     > - 配置HTTPS协议集成的时候，在命令`New-SPWOPIBinding -ServerName wac01.contoso.com`中不需要加参数`-allowedhttp`。
-    > - 配置成功后，使用`Get-SPWOPIBinding`得到的`WopiZone`属性的值为`external-https`。![成功后的属性值](imgs/20150514.003.png)
+    > - 配置成功后，使用`Get-SPWOPIBinding`得到的`WopiZone`属性的值为`external-https`。
+      ![成功后的属性值](imgs/20150514.003.png)
 
 
