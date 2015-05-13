@@ -17,7 +17,7 @@
 
 ##贡献者
 * [iiunknown](https://github.com/iiunknown)
-* Mike
+* [Mike](https://github.com/sujingjiang)
 * [Melody](https://github.com/melodytu)
 
 如果您愿意加入我们，请提供一篇内容发起Pull request，我们会定期审核。
