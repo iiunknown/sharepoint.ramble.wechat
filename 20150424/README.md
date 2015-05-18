@@ -10,12 +10,10 @@
 
 ## 分析LOGS文件
 SharePoint日志文件位于 C:\Program files\Common Files\Microsoft Shared\Web Server Extensions\14\LOGS 文件夹中 (SharePoint 2013是15目录), 大家可以按照日期倒序寻找最新的LOG文件然后使用记事本打开, 根据页面上的ID "093bc970-a4da-422b-a424-791692cf2903" 去搜寻, 很快就会发现问题所在.
-
 ![](imgs/20150424.001.png)
 
 ## 使用Get-SPLogEvent命令
 打开PowerShell, 输入 Get-SPLogEvent | Where-Object {$_.Correlation -eq "093bc970-a4da-422b-a424-791692cf2903"} | select Area, Category, Level, EventID, Message | Format-List 回车, 就可以看到详细的错误提示.
-
 ![](imgs/20150424.002.png)
 
 ## 使用Select语句从SQL数据库中查找
@@ -23,11 +21,9 @@ SharePoint日志文件位于 C:\Program files\Common Files\Microsoft Shared\Web 
 
 ## 使用第三方工具
 - 客户端程序: SharePoint LogViewer, 详见: https://sharepointlogviewer.codeplex.com/
-
 ![](imgs/20150424.003.png)
 
 - 网页版查询工具: SharePoint Query Correlation ID Central Admin Page, 详见: http://spgetcorrelationpage.codeplex.com/
-
 ![](imgs/20150424.004.png)
 
 enjoy SharePoint
