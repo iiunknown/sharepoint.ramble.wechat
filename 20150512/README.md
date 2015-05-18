@@ -10,7 +10,8 @@ $webApp= Get-SPWebApplication "http://url"
 $webApp.DaysToShowNewIndicator
 ```
 
-![](imgs/20150512.002.png)      
+![](imgs/20150512.002.png)
+
 如上图, 我们可以发现当前系统中设置显示时间是2天; 然后我们尝试将时间设置成1天, 输入如下命令:
 ```powershell
 $webApp= Get-SPWebApplication "http://url"
