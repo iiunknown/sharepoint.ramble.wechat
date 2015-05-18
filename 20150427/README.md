@@ -14,6 +14,7 @@ SharePoint UI 界面上创建文件夹, 上传多文件(需 Office 控件支持)
     检查windows服务里面的WebClient服务有没有打开.
 
     ![](imgs/20150427.002.png)
+
 4. 最后Windows资源管理器是依靠WebDav来实现的, 大家也可以从这方面来入手.
 
 enjoy SharePoint
