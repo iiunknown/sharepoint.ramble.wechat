@@ -1,5 +1,5 @@
 # How To Wake Up SharePoint
-    作者：sujingjiang
+	作者：sujingjiang
 
 我们都知道SharePoint是基于ASP.NET的, ASP.NET有个特点就是第一个用户第一次访问的时候会进行JIT编译, 这样就造成了页面打开比较慢; 另外由于托管网站的应用程序池会进行回收, 回收后再次访问又会发生编译动作, 所以这就是为啥之前访问比较快, 忽然第二天后又慢了.
 
