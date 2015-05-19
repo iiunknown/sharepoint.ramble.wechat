@@ -22,4 +22,5 @@
 * [如何修改SharePoint服务器数据库连接字符串](20150513/README.md)
 * [使用HTTPS协议集成SharePoint 2013和OWA](20150514/README.md)
 * [变，便](20150515/README.md)
+* [SharePoint技术聚会（2015年5月23日）](20150520/README.md)
 

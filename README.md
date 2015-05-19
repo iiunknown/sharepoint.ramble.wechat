@@ -70,8 +70,9 @@
 * [20150507 SharePoint 2013安装之：AppFabric安装错误解决办法](20150507/README.md)
 * [20150508 使用AutoSPInstaller自动安装部署SharePoint](20150508/README.md)
 * [20150509 使用Powershell更改SharePoint欢迎页面](20150509/README.md)
-* [20150512 “新”那么点事](20150512/README.md)
+* [20150512“新”那么点事](20150512/README.md)
 * [20150513 如何修改SharePoint服务器数据库连接字符串](20150513/README.md)
 * [20150514 使用HTTPS协议集成SharePoint 2013和OWA](20150514/README.md)
 * [20150515 变，便](20150515/README.md)
+* [20150520 SharePoint技术聚会（2015年5月23日）](20150520/README.md)
 
