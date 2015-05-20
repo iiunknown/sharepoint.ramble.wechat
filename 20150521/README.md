@@ -1,4 +1,5 @@
 # SPHttpUtility.HtmlEncode
+    作者：杨柳@水杉网络
 
 ## 基本信息
 程序集
