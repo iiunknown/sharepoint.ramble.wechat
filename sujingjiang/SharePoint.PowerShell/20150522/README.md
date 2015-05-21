@@ -13,3 +13,5 @@
 >  + "-Force" 覆盖现有URL地址上的网站集
 >  + "-ContentDatabase" 指定还原到哪个内容数据库上; 如果没有指定将使用未使用的网站集容量最大, 其数据库状态为准备就绪的内容数据库.
 >  + "-DatabaseServer -DatabaseName" 指定数据服务器名称和数据名称
+
+enjoy SharePoint
