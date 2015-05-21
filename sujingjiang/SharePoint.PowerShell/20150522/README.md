@@ -6,7 +6,7 @@
 > - 参数:
 >  + "-Force" 覆盖现有备份.
 >  + "-NoSiteLock" 设置备份的时候网站集是否可以读写. 如果没有指定该参数, 那么在备份的过程中网站集将会被设置成只读, 备份完成后网站集恢复原始状态.
->
+
 ## Restore-SPSite
 > - 例子: `Restore-SPSite http://site_name -Path C:\Backup\site_name.bak`
 > - 参数:
