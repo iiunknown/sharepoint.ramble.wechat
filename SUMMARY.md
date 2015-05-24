@@ -24,4 +24,6 @@
 * [变，便](20150515/README.md)
 * [SharePoint技术聚会（2015年5月23日）](20150520/README.md)
 * [SPHttpUtility.HtmlEncode 介绍](20150521/README.md)
+* [Backup-SPSite & Restore-SPSite](20150522/README.md)
+* [SPHttpUtility.HtmlDecode 介绍](20150525/README.md)
 
