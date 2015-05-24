@@ -4,6 +4,6 @@
 
 ##索引
 
-- [SPHttpUtility.HtmlEncode](sphttputility1.md)：HTML字符编码方法
+- [SPHttpUtility.HtmlEncode](sphttputility1.md)：Html字符编码方法
 
-- [SPHttpUtility.HtmlDecode]：HTML字符解码方法
+- [SPHttpUtility.HtmlDecode](sphttputility2.md)：Html编码字符解码方法

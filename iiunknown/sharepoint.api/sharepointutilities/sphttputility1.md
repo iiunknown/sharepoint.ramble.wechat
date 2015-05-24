@@ -55,15 +55,15 @@ protected override void RenderFieldForInput(HtmlTextWriter output)
 > 以下代码在SharePoint Powershell命令行工具中执行
 
 ``` powershell
-/*
-格式化带HTML标签的文本。
-输出结果：&lt;div&gt;hello SharePoint.&lt;/div&gt;
-*/
+#####
+# 格式化带HTML标签的文本。
+# 输出结果：&lt;div&gt;hello SharePoint.&lt;/div&gt;
+#####
 [Microsoft.SharePoint.Utilities.SPHttpUtility]::HtmlEncode("<div>hello SharePoint.</div>");
-/*
-格式化Guid实例。
-输出结果：与{BE2CC461-ECF3-4153-B1FF-0DB8589ABA4B}一致格式的注册表格式大写字符串。
-*/
+#####
+# 格式化Guid实例。
+# 输出结果：与{BE2CC461-ECF3-4153-B1FF-0DB8589ABA4B}一致格式的注册表格式大写字符串。
+#####
 [Microsoft.SharePoint.Utilities.SPHttpUtility]::HtmlEncode([System.Guid]::NewGuid());
 
 ```
