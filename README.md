@@ -1,5 +1,7 @@
 # 《SharePoint 漫谈》微信订阅号内容管理
 
+[![Join the chat at https://gitter.im/iiunknown/sharepoint.ramble.wechat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iiunknown/sharepoint.ramble.wechat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 
 ![微信订阅号二维码](sharepoint.ramble.wechat.jpg)
