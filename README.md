@@ -19,6 +19,7 @@
 * [iiunknown](https://github.com/iiunknown)
 * [sujingjiang](https://github.com/sujingjiang)
 * [Melody](https://github.com/melodytu)
+* [lostcowteng](https://github.com/lostcowteng)
 
 如果您愿意加入我们，请提供一篇内容发起Pull request，我们会定期审核。
 
