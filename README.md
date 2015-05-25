@@ -1,6 +1,6 @@
 # 《SharePoint 漫谈》微信订阅号内容管理
 
-
+[Gitter](https://webhooks.gitter.im/e/5d76058753dfc94f30bb)
 
 ![微信订阅号二维码](sharepoint.ramble.wechat.jpg)
 
