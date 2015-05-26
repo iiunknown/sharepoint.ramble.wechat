@@ -6,7 +6,7 @@ SharePoint文档库开启`版本控制`后，可对文档进行版本管理。
 通过以下代码可以获取各版本信息。
 ```
 SPFile file = 获取SPFile;
-foreach (SPFileVersion version in file.Versions)
+foreach (SPFileVersion version in file.Versions)//SPFile.Versions返回的类型是SPFileVersionCollection
 {
     string comment = version.CheckInComment;//签入日志
     string versionNo = version.VersionLabel;//版本号
@@ -33,7 +33,7 @@ public SPFile File
 }
 
 ```
-顺道发现了另一个有意思的东西`VersionLabel`，版本号，值为`1.0`  `2.2`  `3.12` 等。小数点前的数字是主要版本号；小数点后面的数字为次要版本号。
+顺道发现了另一个有意思的东西`SPFileVersion.VersionLabel`，版本号，值为`1.0`  `2.2`  `3.12` 等。小数点前的数字是主要版本号；小数点后面的数字为次要版本号。
 ```
 public string VersionLabel
 {
