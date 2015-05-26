@@ -1,6 +1,6 @@
 # 《SharePoint 漫谈》微信订阅号内容管理
 
-
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iiunknown/sharepoint.ramble.wechat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ![微信订阅号二维码](sharepoint.ramble.wechat.jpg)
 
@@ -19,6 +19,7 @@
 * [iiunknown](https://github.com/iiunknown)
 * [sujingjiang](https://github.com/sujingjiang)
 * [Melody](https://github.com/melodytu)
+* [lostcowteng](https://github.com/lostcowteng)
 
 如果您愿意加入我们，请提供一篇内容发起Pull request，我们会定期审核。
 
@@ -53,21 +54,26 @@
 
 ## 已发布内容索引
 
-* [20150421 在爱恨之间](http://mp.weixin.qq.com/s?__biz=MzA5ODc0ODY5MQ==&mid=206285277&idx=1&sn=26d649bd9098bb6385ee56e4a6ecc9f0#rd)
-* [20150423 HTTP协议学习资料推荐](http://mp.weixin.qq.com/s?__biz=MzA5ODc0ODY5MQ==&mid=206329665&idx=1&sn=36059067e6f826ea25b465ed2beadf81#rd)
-* [20150424 如何根据Correlation ID来查找具体的错误信息](http://mp.weixin.qq.com/s?__biz=MzA5ODc0ODY5MQ==&mid=206370990&idx=1&sn=a25119e3b8289e02f390d0a502b904b0#rd)
-* [20150425 如何自动登陆 SharePoint 系统?](http://mp.weixin.qq.com/s?__biz=MzA5ODc0ODY5MQ==&mid=206403301&idx=1&sn=1ebe1ea6b2ee73358ab576112f5ebad7#rd)
-* [20150426 如何跨网段配置DHCP故障转移](http://mp.weixin.qq.com/s?__biz=MzA5ODc0ODY5MQ==&mid=206441707&idx=1&sn=af6a7a097c8230cd24b686b3aa55d35d#rd)
-* [20150427 无法使用资源管理器浏览文档库?](http://mp.weixin.qq.com/s?__biz=MzA5ODc0ODY5MQ==&mid=206524025&idx=1&sn=87d7979af0d18250e49aedc9f81c335e#rd)
-* [20150428 浅析SPField的DisplayName，InternalName，StaticName（上篇）](http://mp.weixin.qq.com/s?__biz=MzA5ODc0ODY5MQ==&mid=206648018&idx=1&sn=bd6fa8583637d2af4a94966042c513d4#rd)
-* [20150429 浅析SPField的DisplayName，InternalName，StaticName（下篇）](http://mp.weixin.qq.com/s?__biz=MzA5ODc0ODY5MQ==&mid=206666057&idx=1&sn=e6f6aef825c126f6f956f61921de6754#rd)
-* [20150430 SharePoint 2013 子网站继承父网站树视图方法](http://mp.weixin.qq.com/s?__biz=MzA5ODc0ODY5MQ==&mid=206817761&idx=1&sn=99ae220da5f034131ff8325e21e457be#rd)
-* [20150501 How To Wake Up SharePoint](http://mp.weixin.qq.com/s?__biz=MzA5ODc0ODY5MQ==&mid=206856985&idx=1&sn=6fd22d641ea00468eb52b8fceda845d0#rd)
-* [20150502 Build 2015之：从Azure到SharePoint](http://mp.weixin.qq.com/s?__biz=MzA5ODc0ODY5MQ==&mid=206860291&idx=1&sn=1cfe1a636221e730976ab4f73c24f481#rd)
-* [20150503 使用Powershell导出SharePoint列表数据](http://mp.weixin.qq.com/s?__biz=MzA5ODc0ODY5MQ==&mid=206914604&idx=1&sn=c7f9b1136423af22ca3087a6b500385e#rd)
-* [20150504 怎么在 InfoPath Web 浏览器表单中弹出对话框?](http://mp.weixin.qq.com/s?__biz=MzA5ODc0ODY5MQ==&mid=206932293&idx=1&sn=f103c16fb679fafe0ea3a3e7cd5f1862#rd)
-* [20150505 使用Powershell自动化部署SharePoint解决方案](http://mp.weixin.qq.com/s?__biz=MzA5ODc0ODY5MQ==&mid=206990261&idx=1&sn=76aa63cea7a9c23f1f11c115a63d3434#rd)
-* [20150506 使用图形化界面部署WSP解决方案包](http://mp.weixin.qq.com/s?__biz=MzA5ODc0ODY5MQ==&mid=206979190&idx=1&sn=95c51a131d1a45c96529da16a457f81a#rd)
-* [20150507 SharePoint 2013安装之：AppFabric安装错误解决办法](http://mp.weixin.qq.com/s?__biz=MzA5ODc0ODY5MQ==&mid=207191646&idx=1&sn=127249a332c36caeea0046694ba85607#rd)
-* [20150508 使用AutoSPInstaller自动安装部署SharePoint](http://mp.weixin.qq.com/s?__biz=MzA5ODc0ODY5MQ==&mid=207266100&idx=1&sn=456af25bd8e5e5119892dd820fde3263#rd)
-
+* [20150421 在爱恨之间](20150421/README.md)
+* [20150423 HTTP协议学习资料推荐](20150423/README.md)
+* [20150424 如何根据Correlation ID来查找具体的错误信息](20150424/README.md)
+* [20150425 如何自动登陆 SharePoint 系统?](20150425/README.md)
+* [20150426 如何跨网段配置DHCP故障转移](20150426/README.md)
+* [20150427 无法使用资源管理器浏览文档库?](20150427/README.md)
+* [20150429 浅析SPField的DisplayName，InternalName，StaticName](20150429/README.md)
+* [20150430 SharePoint 2013 子网站继承父网站树视图方法](20150430/README.md)
+* [20150501 How To Wake Up SharePoint](20150501/README.md)
+* [20150502 Build 2015之：从Azure到SharePoint](20150502/README.md)
+* [20150503 使用Powershell导出SharePoint列表数据](20150503/README.md)
+* [20150504 怎么在 InfoPath Web 浏览器表单中弹出对话框?](20150504/README.md)
+* [20150505 使用Powershell自动化部署SharePoint解决方案](20150505/README.md)
+* [20150506 使用图形化界面部署WSP解决方案包](20150506/README.md)
+* [20150507 SharePoint 2013安装之：AppFabric安装错误解决办法](20150507/README.md)
+* [20150508 使用AutoSPInstaller自动安装部署SharePoint](20150508/README.md)
+* [20150509 使用Powershell更改SharePoint欢迎页面](20150509/README.md)
+* [20150512“新”那么点事](20150512/README.md)
+* [20150513 如何修改SharePoint服务器数据库连接字符串](20150513/README.md)
+* [20150514 使用HTTPS协议集成SharePoint 2013和OWA](20150514/README.md)
+* [20150515 变，便](20150515/README.md)
+* [20150520 SharePoint技术聚会（2015年5月23日）](20150520/README.md)
+* [20150521 SPHttpUtility.HtmlEncode 介绍](20150521/README.md)

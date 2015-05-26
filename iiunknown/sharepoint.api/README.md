@@ -9,6 +9,6 @@
 此系列基于SharePoint 2013介绍常见的SharePoint 服务器端 API 及其用法。SharePoint提供的这些API，如果有所了解，一则可以给日常的开发工作带来方便，俗称**不用再造轮子**；在则我们可以抱着学习的态度从软件架构层面看看如何更好的组织一个软件系统，毕竟SharePoint 是ASP.NET 平台上最大的产品实践。
 
 ## 目录
-1. [SharePoint.Utilities工具类系列](sharepointutilities\README.md)
+1. [SharePoint.Utilities工具类系列](sharepointutilities/README.md)
 
 
