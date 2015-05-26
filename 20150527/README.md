@@ -33,14 +33,14 @@ public SPFile File
 }
 
 ```
-顺道发现了另一个有意思的东西`VersionLabel`，版本号，值为1.0 2.2 3.12 等。小数点前的数字是主要版本号；小数点后面的数字为次要版本号。
+顺道发现了另一个有意思的东西`VersionLabel`，版本号，值为`1.0`  `2.2`  `3.12` 等。小数点前的数字是主要版本号；小数点后面的数字为次要版本号。
 ```
 public string VersionLabel
 {
     get
     {
         //this.ID为内部版本号，每产生一个主要版本this.ID+=512，每产生一个次要版本this.ID+=1
-        //num主要版本号，SPFile.MAX_MINORVERSION是readonly值为512
+        //num为主要版本号，SPFile.MAX_MINORVERSION是readonly的，值为512
         int num = this.ID / SPFile.MAX_MINORVERSION;
         //num2为次要版本号
         int num2 = this.ID % SPFile.MAX_MINORVERSION;
