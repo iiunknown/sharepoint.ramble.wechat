@@ -1,7 +1,7 @@
 # 文档库的版本控制——SPFileVersion
    	作者：柒月
 
-## 描述 
+## 描述
 SharePoint文档库开启`版本控制`后，可对文档进行版本管理。
 通过以下代码可以获取各版本信息。
 ```
@@ -16,11 +16,11 @@ foreach (SPFileVersion version in file.Versions)//SPFile.Versions返回的类型
 }
 ```
 慢着，代码执行后，本应该导出各版本的文件，现在却导出了N份最新版本的文件。有什么奇怪的东西混进去了？
-## 思考 
+## 思考
 `SPFileVersion.File`是一个`SPFile`对象，若它表示某历史版本的文件，那么它所对应的`SPFile.Versions`又是什么？历史版本文件的历史版本文件集合？好矛盾，好纠结，显然错误得很彻底。
 
 再仔细瞅瞅`SPFileVersion.File`的Summary:`Gets the parent file for the version.` 原来这是用来获取父文件(Release版本文件)的。而`SPFileVersion.OpenBinary() Returns a byte array that contains the file version.`才是用来获取历史版本文件的。
-## 有码有真相 
+## 有码有真相
 反编译一下`Microsoft.SharePoint.dll`找到`SPFileVersion.File`属性   :D
 ```
 public SPFile File
