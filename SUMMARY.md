@@ -26,4 +26,6 @@
 * [SPHttpUtility.HtmlEncode 介绍](20150521/README.md)
 * [Backup-SPSite & Restore-SPSite](20150522/README.md)
 * [SPHttpUtility.HtmlDecode 介绍](20150525/README.md)
+* [Export-SPWeb & Import-SPWeb](20150526/README.md)
+* [文档库的版本控制——SPFileVersion](20150527/README.md)
 
