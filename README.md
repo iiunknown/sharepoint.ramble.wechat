@@ -77,3 +77,7 @@
 * [20150515 变，便](20150515/README.md)
 * [20150520 SharePoint技术聚会（2015年5月23日）](20150520/README.md)
 * [20150521 SPHttpUtility.HtmlEncode 介绍](20150521/README.md)
+* [20150522 Backup-SPSite & Restore-SPSite](20150522/README.md)
+* [20150525 SPHttpUtility.HtmlDecode 介绍](20150525/README.md)
+* [20150526 Export-SPWeb & Import-SPWeb](20150526/README.md)
+* [20150527 文档库的版本控制——SPFileVersion](20150527/README.md)
