@@ -7,3 +7,4 @@
 - [SPHttpUtility.HtmlEncode](sphttputility1.md)：Html字符编码方法
 
 - [SPHttpUtility.HtmlDecode](sphttputility2.md)：Html编码字符解码方法
+- [SPUtility.CreateISO8601DateTimeFromSystemDateTime](sputility1.md): 系统日期转化为ISO88601日期格式字符串
