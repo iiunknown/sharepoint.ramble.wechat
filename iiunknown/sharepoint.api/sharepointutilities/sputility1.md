@@ -14,7 +14,7 @@
 将一个系统时间转换为ISO8601时间格式的字符串（yyyy-mm-ddThh:mm:ssZ）。
 
 ## 方法
-在Microsoft.SharePoint.Utilities.SPHttpUtility类下，有两个个HtmlDecode的重载方法，具体描述如下：
+位于Microsoft.SharePoint.Utilities.SPUtility类，具体描述如下：
 ``` c#
 public static string CreateISO8601DateTimeFromSystemDateTime(DateTime dtValue)
 {
