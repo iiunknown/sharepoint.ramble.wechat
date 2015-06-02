@@ -31,4 +31,5 @@
 * [操作WSP解决方案包的相关命令](20150528/README.md)
 * [Ajax.NET for SharePoint](20150529/README.md)
 * [SPUtility.CreateISO8601DateTimeFromSystemDateTime 介绍](20150601/README.md)
+* [Get-SPSolution](20150603/README.md)
 
