@@ -8,7 +8,7 @@
 > 基于声明身份验证：    i:0#.w|sp\spadmin
 
 WTF!前面这一小段脏兮兮的字符串是什么鬼！是我大MS用来杀死处女座的么？！
-还好还好，万能对象模型（`SPClaimProviderManager.DecodeClaim`）能帮我找回干净的登录名，不用萌萌地去做字符串截取了:)
+还好还好，对象模型（`SPClaimProviderManager.DecodeClaim`）能帮我找回干净的登录名，不用萌萌地去做字符串截取了:)
 ## 声明是什么 
 先想办法抓出来瞧一瞧（需引用`Microsoft.IdentityModel.dll`）
 
