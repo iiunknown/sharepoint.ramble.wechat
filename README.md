@@ -83,4 +83,6 @@
 * [20150526 Export-SPWeb & Import-SPWeb](20150526/README.md)
 * [20150527 文档库的版本控制——SPFileVersion](20150527/README.md)
 * [20150528 操作WSP解决方案包的相关命令](20150528/README.md)
-* [20150529 XXXXX]
+* [20150529 Ajax.NET for SharePoint](20150529/README.md)
+* [20150601 SPUtility.CreateISO8601DateTimeFromSystemDateTime](20150601/README.md)
+* [20150602 SharePoint迁移之配置数据库连接](20150602/README.md)
