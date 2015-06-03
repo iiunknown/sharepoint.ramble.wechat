@@ -56,6 +56,6 @@ Properties: 0
 ......
 ```
 观察一下以上信息：当前登录者的身份信息里，有一组声明集合（Claims），它包含了很多条声明（Claim），每条声明都描述了当前登录者的某一特性，例如登录名、邮箱、属于哪一个Domain Group 等。
-也就是说，当用户完成登录动作的时候，SharePoint已经将登陆者所有的（所需的，从AD取）信息都取了出来，并保存在Claims里。当SharePoint需要时（进行权限验证时），直接从Claims里获取相应的授权信息，如某SharePoint资源授权域组A可以访问，从当前登录者Claims里发现他是域组A成员，那么当前登陆者可以访问此资源，至此，登陆者就打开了SharePoint的大门。
+也就是说，当用户完成登录动作的时候，SharePoint已经将登录者所有的（所需的，从AD取）信息都取了出来，并保存在Claims里。当SharePoint需要时（进行权限验证时），直接从Claims里获取相应的授权信息，如某SharePoint资源授权域组A可以访问，从当前登录者Claims里发现他是域组A成员，那么当前登陆者可以访问此资源，至此，登陆者就打开了SharePoint的大门。
 
 附：为什么使用基于声明的身份验证 https://msdn.microsoft.com/en-us/library/office/ee535229(v=office.14).aspx
