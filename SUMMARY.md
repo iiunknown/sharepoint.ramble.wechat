@@ -33,4 +33,4 @@
 * [SPUtility.CreateISO8601DateTimeFromSystemDateTime 介绍](20150601/README.md)
 * [SharePoint迁移之配置数据库连接](20150602/README.md)
 * [Get-SPSolution](20150603/README.md)
-
+* [SharePoint的门票——基于声明的身份验证](20150604/README.md)
