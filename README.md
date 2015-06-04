@@ -88,3 +88,4 @@
 * [20150602 SharePoint迁移之配置数据库连接](20150602/README.md)
 * [20150603 Get-SPSolution](20150603/README.md)
 * [20150604 SharePoint的门票——基于声明的身份验证](20150604/README.md)
+* [20150605 使用Schema定义推送列表模板及实例注意事项](20150605/README.md)
