@@ -86,5 +86,5 @@
 * [20150529 Ajax.NET for SharePoint](20150529/README.md)
 * [20150601 SPUtility.CreateISO8601DateTimeFromSystemDateTime](20150601/README.md)
 * [20150602 SharePoint迁移之配置数据库连接](20150602/README.md)
-* [Get-SPSolution](20150603/README.md)
-* [SharePoint的门票——基于声明的身份验证](20150604/README.md)
+* [20150603 Get-SPSolution](20150603/README.md)
+* [20150604 SharePoint的门票——基于声明的身份验证](20150604/README.md)
