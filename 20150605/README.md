@@ -5,7 +5,7 @@
 ## 摘要
 在使用Visual Studio进行SharePoint开发过程中，经常会使用场解决方案包含Feature推送列表模板及其实例定义（Schema定义）。Visual Studio提供的SharePoint开发工具虽然谈不上特别方便易用，但对于列表字段定义来讲也比在SharePoint 列表管理中一个个增加来得方便，而且也方便项目的部署迁移。
 
-但是，在使用Schema定义过程中，也有需要值得注意的地方，一步小心就会掉入陷阱中。此篇主要介绍两个注意点：
+但是，在使用Schema定义过程中，也有需要值得注意的地方，一不小心就会掉入陷阱中。此篇主要介绍两个注意点：
 * 管好你的ListTemplate.Type
 * 拯救Lookup字段
 
