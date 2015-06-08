@@ -36,4 +36,5 @@
 * [SharePoint的门票——基于声明的身份验证](20150604/README.md)
 * [使用Schema定义推送列表模板及实例注意事项](20150605/README.md)
 * [灵活运用VS外部工具：获取程序集全名称](20150608/README.md)
+* [New-SPSite](20150609/README.md)
 
