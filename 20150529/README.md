@@ -44,4 +44,4 @@ Ajax.NET在.NET的反射机制基础上提供的Ajax解决方案，引入到Shar
 
 ## 示例
 * 原代码地址：[Ajax.NET for SharePoint](https://github.com/shuishan-tech/ajax.net)
-* 示例代码地址：[Demo](https://github.com/shuishan-tech/ajax.net/Demo/Ajax.Net.Demo)
+* 示例代码地址：[Demo](https://github.com/shuishan-tech/ajax.net/tree/master/Demo/Ajax.NET.Demo)
