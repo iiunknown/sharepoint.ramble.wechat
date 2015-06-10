@@ -38,4 +38,5 @@
 * [灵活运用VS外部工具：获取程序集全名称](20150608/README.md)
 * [PowerShell命令系列 (5) New-SPSite](20150609/README.md)
 * [无码制作一个InfoPath LOV](20150610/README.md)
+* [灵活运用VS外部工具：Copy assembly to GAC](20150611/README.md)
 
