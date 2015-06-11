@@ -10,6 +10,7 @@
 > - "Name": 指定新网站集的标题.
 > - "Description": 指定新网站集的描述说明.
 > - "Url": 指定新网站集所使用的地址.
+> - "HostHeaderWebApplication": 承载新网站集的Web应用程序名称、URL、GUID或SPWebApplication对象.
 > - "OwnerAlias": 指定新网站集所有者的用户登录名, 格式为"Domain\username".
 > - "SecondaryOwnerAlias": 指定新网站第二所有者的用户登录名.
 > - "CompatibilityLevel": 设置新网站集的体验版本, 值可为14(SharePoint 2010的体验网站)或15(SharePoint 2013的体验网站).
