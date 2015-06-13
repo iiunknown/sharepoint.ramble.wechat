@@ -1,5 +1,5 @@
 # Export-SPWeb &amp; Import-SPWeb
-	作者：sujingjiang
+	作者：jingnansu
 
 上期我们介绍了如何备份还原网站集, 可是有时候我们只需要把某个网站或者子站点中的内容导出, 那么就会用到这两条命令.
 

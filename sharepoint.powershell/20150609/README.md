@@ -1,5 +1,5 @@
 # New-SPSite
-	作者：sujingjiang
+	作者：jingnansu
 
 这个命令简单的说就是创建新的网站集.
 

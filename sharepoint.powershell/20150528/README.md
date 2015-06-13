@@ -1,5 +1,5 @@
 # 操作WSP解决方案包的相关命令
-	作者：sujingjiang
+	作者：jingnansu
 
 ## Add-SPSolution
 > - 例子: `Add-SPSolution -LiteralPath c:\solution.wsp`

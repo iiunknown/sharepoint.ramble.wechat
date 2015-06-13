@@ -1,5 +1,5 @@
 # 使用图形化界面部署WSP解决方案包
-	作者：sujingjiang
+	作者：jingnansu
 
 昨天我们介绍了使用Powershell自动化部署SharePoint解决方案包, 作为SharePoint开发人员, 我们对如何使用PowerShell命令来部署WSP已经很熟悉了:      
 + Add-SPSolution: 向服务器场上载SharePoint解决方案程序包
