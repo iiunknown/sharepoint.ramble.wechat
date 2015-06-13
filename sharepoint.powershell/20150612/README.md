@@ -1,5 +1,5 @@
 # Get-SPSite &amp; Set-SPSite
-	作者：sujingjiang
+	作者：jingnansu
 
 这两个命令一般情况下是一起出现的, 一个是获取指定条件的网站集, 另一个是设置对应的网站集参数.
 

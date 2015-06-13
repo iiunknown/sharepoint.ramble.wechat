@@ -1,5 +1,5 @@
 # Backup-SPSite &amp; Restore-SPSite
-    作者：sujingjiang
+    作者：jingnansu
 
 这两条命令可能是大家最先接触的PowerShell命令了吧, 一个是备份网站集, 另一个是还原网站集.
 
