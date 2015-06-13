@@ -17,7 +17,7 @@
 
 ##贡献者
 * [iiunknown](https://github.com/iiunknown)
-* [sujingjiang](https://github.com/sujingjiang)
+* [jingnansu](https://github.com/jingnansu)
 * [Melody](https://github.com/melodytu)
 * [lostcowteng](https://github.com/lostcowteng)
 
