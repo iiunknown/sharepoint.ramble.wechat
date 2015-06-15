@@ -41,4 +41,5 @@
 * [灵活运用VS外部工具：Copy assembly to GAC](20150611/README.md)
 * [Get-SPSite &amp; Set-SPSite](20150612/README.md)
 * [SharePoint Manager 2013](20150615/README.md)
+* [PowerShell命令系列 (6) Move-SPSite](20150616/README.md)
 
