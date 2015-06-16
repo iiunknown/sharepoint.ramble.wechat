@@ -96,3 +96,4 @@
 * [20150612 Get-SPSite &amp; Set-SPSite](20150612/README.md)
 * [20150615 SharePoint Manager 2013](20150615/README.md)
 * [20150616 PowerShell命令系列 (6) Move-SPSite](20150616/README.md)
+* [20150617 页面访问授权的秘密：SPUtility.EnsureAuthentication](20150617/README.md)
