@@ -62,4 +62,4 @@ protected override void OnLoad(EventArgs e)
 [Microsoft.SharePoint.Utilities.SPUtility]::EnsureAuthentication();
 ```
 
-如上示例，此方法的最近测试场景是放在应用程序页面中。
+如上示例，此方法的最佳测试场景是放在应用程序页面中。
