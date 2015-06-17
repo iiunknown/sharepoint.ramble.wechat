@@ -9,3 +9,4 @@
 - [SPHttpUtility.HtmlDecode](sphttputility2.md)：Html编码字符解码方法
 - [SPUtility.CreateISO8601DateTimeFromSystemDateTime](sputility1.md): 系统日期转化为ISO88601日期格式字符串
 - [SPUtility.EnsureAuthentication](sputility2.md): 页面访问授权判断
+- [SPUtility.GetDisplayUserName](sputility3.md)：获取用户显示名

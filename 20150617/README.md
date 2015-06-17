@@ -1,4 +1,5 @@
 # 页面访问授权的秘密：SPUtility.EnsureAuthentication
+    作者：杨柳@水杉网络
 
 ## 基本信息
 程序集

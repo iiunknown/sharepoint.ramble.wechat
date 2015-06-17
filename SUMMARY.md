@@ -43,4 +43,5 @@
 * [SharePoint Manager 2013](20150615/README.md)
 * [PowerShell命令系列 (6) Move-SPSite](20150616/README.md)
 * [页面访问授权的秘密：SPUtility.EnsureAuthentication](20150617/README.md)
+* [获取登录用户显示名：SPUtility.GetDisplayUserName](20150618/README.md)
 

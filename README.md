@@ -97,3 +97,4 @@
 * [20150615 SharePoint Manager 2013](20150615/README.md)
 * [20150616 PowerShell命令系列 (6) Move-SPSite](20150616/README.md)
 * [20150617 页面访问授权的秘密：SPUtility.EnsureAuthentication](20150617/README.md)
+* [20150618 获取登录用户显示名：SPUtility.GetDisplayUserName](20150618/README.md)
