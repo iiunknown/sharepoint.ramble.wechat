@@ -37,3 +37,6 @@
 对于SPItem数量巨大的列表或库，我们可以将SPItem按照一定规则存入列表下的文件夹（`SPFolder`）中，例如按照年份、月份或者创建人等划分文件夹，SPItem放入相应的文件夹内，确保每个文件夹中的SPItems数量控制在阈值之内。
 
 用这个方式也能有效地避免阈值异常，提高存取效率。
+
+附：[jingnansu](https://github.com/jingnansu "jingnansu")精心制作的脑图
+![如何处理阈值异常](imgs/20150619.png)
