@@ -28,9 +28,10 @@
 ###索引
 可以为SPList设置索引栏（`列表设置->索引栏->新建索引`）。以下为[jingnansu](https://github.com/jingnansu "jingnansu")的测试结果：
 
-* SPList未设置索引，SPList.ItemCount大于阈值，普通用户使用`SPQuery.Query`对`普通栏`做筛选，抛出阈值异常；
-* SPList设置某栏为索引栏，SPList.ItemCount大于阈值，普通用户对`索引栏`做筛选，若结果集数量大于阈值，则抛出阈值异常。若结果集数量小于阈值，则可正常取出数据；
-* SPList未设置索引，SPList.ItemCount大于阈值，筛选数据时，设置`SPQuery.Query`为null、`SPQuery.RowLimit`大于阈值，则抛出异常。设置`SPQuery.RowLimit`小于阈值则可以正常取出数据。
+* SPList未设置索引，SPList.ItemCount大于阈值，普通用户使用`SPQuery.Query`对`普通栏`做筛选，抛出阈值异常
+* SPList未设置索引，SPList.ItemCount大于阈值，筛选数据时，设置`SPQuery.Query`为null、`SPQuery.RowLimit`大于阈值，则抛出异常；设置`SPQuery.RowLimit`小于阈值则可以正常取出数据
+* SPList设置某栏为索引栏，SPList.ItemCount大于阈值，普通用户对`索引栏`做筛选，若`结果集`数量大于阈值，则抛出阈值异常。若`结果集`数量小于阈值，则可正常取出数据。若两个查询条件由`<Or>`组成，则两个查询栏都必须为索引栏；若两个查询条件由`<And>`组成，则查询栏至少包含一个索引栏
+
 
 ###数据切分
 对于SPItem数量巨大的列表或库，我们可以将SPItem按照一定规则存入列表下的文件夹（`SPFolder`）中，例如按照年份、月份或者创建人等划分文件夹，SPItem放入相应的文件夹内，确保每个文件夹中的SPItems数量控制在阈值之内。
