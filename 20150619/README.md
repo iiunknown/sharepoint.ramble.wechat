@@ -32,6 +32,6 @@
 * SPList未设置索引，SPList.ItemCount大于阈值，筛选数据时，设置`SPQuery.Query`为null、`SPQuery.RowLimit`大于阈值，则抛出异常。设置`SPQuery.RowLimit`小于阈值则可以正常取出数据。
 
 ###数据切分
-对于SPItem数量巨大的列表或库，我们可以将SPItem按照一定规则存入列表下的文件夹（`SPFolder`）中，例如按照年份、月份或者创建人等划分文件夹，SPItem放入相应的文件夹内，确保文件夹中的SPItems数量控制在阈值之内。
+对于SPItem数量巨大的列表或库，我们可以将SPItem按照一定规则存入列表下的文件夹（`SPFolder`）中，例如按照年份、月份或者创建人等划分文件夹，SPItem放入相应的文件夹内，确保每个文件夹中的SPItems数量控制在阈值之内。
 
 用这个方式也能有效地避免阈值异常，提高存取效率。
