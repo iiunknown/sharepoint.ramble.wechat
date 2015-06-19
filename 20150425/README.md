@@ -1,5 +1,5 @@
 # 如何自动登陆 SharePoint 系统
-	作者：sujingjiang
+	作者：jingnansu
 
 在登陆使用域验证的 SharePoint 环境时, 网页默认会弹出一个 windows 验证的登陆框, 这时候大家需要输入用户名密码等才能登陆.      
 ![](imgs/20150425.001.png)

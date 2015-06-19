@@ -1,5 +1,5 @@
 # 使用AutoSPInstaller自动安装部署SharePoint
-	作者：sujingjiang
+	作者：jingnansu
 
 昨天我们介绍了在离线模式下AppFabric安装错误解决办法，那么是不是有什么自动化的工具能帮助我们一次性完成SharePoint的安装呢？当然答案是肯定的。
 

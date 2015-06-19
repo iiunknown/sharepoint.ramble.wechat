@@ -1,5 +1,5 @@
 # Get-SPSolution
-	作者：sujingjiang
+	作者：jingnansu
 
 上一篇我们介绍了操作WSP解决方案包的相关命令, 如果我们想获取某个解决方案包的相关属性则可以使用此命令.
 
