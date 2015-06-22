@@ -99,3 +99,4 @@
 * [20150617 页面访问授权的秘密：SPUtility.EnsureAuthentication](20150617/README.md)
 * [20150618 获取登录用户显示名：SPUtility.GetDisplayUserName](20150618/README.md)
 * [20150619 捞数据请节制——SPList阈值](20150619/README.md)
+* [20150623 SharePoint配套产品概览](20150623/README.md)
