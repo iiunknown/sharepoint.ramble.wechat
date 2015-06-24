@@ -46,3 +46,4 @@
 * [获取登录用户显示名：SPUtility.GetDisplayUserName](20150618/README.md)
 * [捞数据请节制——SPList阈值](20150619/README.md)
 * [SharePoint配套产品概览](20150623/README.md)
+* [LINQ to SharePoint](20150624/README.md)
