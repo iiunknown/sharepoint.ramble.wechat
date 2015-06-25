@@ -32,7 +32,7 @@ OAM与SharePoint集成，本身提供了两种模式：
 * WebGate ISAPI Filter只需要在需要使用OAM功能的WebApplication IIS站点上配置即可。
 * WebGate HttpModule需要在IIS全局注册，同上，需要在使用OAM功能的WebApplication IIS站点上配置。
 *  ***重要：使用OAM功能的WebApplication IIS站点身份认证需要开启ASP.NET 模拟，Form 身份验证，匿名身份验证。***
-        这是坑之一：如果不开启Form 身份验证，意思OAM身份验证成功后跳转到SharePoint站点，在IIS验证通过后SharePoint也会抛出经典的``，而官方文档只是说一定要开启ASP.NET 模拟和匿名身份验证。
+        这是坑之一：如果不开启Form 身份验证，即使OAM身份验证成功后跳转到SharePoint站点，在IIS验证通过后SharePoint也会抛出经典的`访问内容未被共享`提示，而官方文档只是说一定要开启ASP.NET 模拟和匿名身份验证。
 
 ## 给自己挖坑
 OAM与SharePoint集成过程还算顺畅，但是第一次上手的同学或多或少会掉到一些坑里，以上配置目前还是停留在测试环境，在生产环境上正式运行后，我会起长篇介绍集成原理，集成过程，至于是什么时候，您猜？
