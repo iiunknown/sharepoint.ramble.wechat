@@ -102,3 +102,4 @@
 * [20150623 SharePoint配套产品概览](20150623/README.md)
 * [20150624 LINQ to SharePoint](20150624/README.md)
 * [20150625 SharePoint Feature Tool](20150625/README.md)
+* [20150626 Integrating SharePoint with OAM](20150626/README.md)
