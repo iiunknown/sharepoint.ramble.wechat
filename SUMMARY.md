@@ -47,3 +47,7 @@
 * [捞数据请节制——SPList阈值](20150619/README.md)
 * [SharePoint配套产品概览](20150623/README.md)
 * [LINQ to SharePoint](20150624/README.md)
+* [SharePoint Feature Tool](20150625/README.md)
+* [Integrating SharePoint with OAM](20150626/README.md)
+* [合并Url：SPUtility.ConcatUrls](20150629/README.md)
+* [PowerShell命令系列 (7) Remove-SPSite](20150630/README.md)

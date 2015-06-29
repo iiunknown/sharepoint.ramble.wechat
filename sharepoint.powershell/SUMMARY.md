@@ -8,4 +8,4 @@
    * [New-SPSite](20150609/README.md)
    * [Get-SPSite &amp; Set-SPSite](20150612/README.md)
    * [Move-SPSite](20150616/README.md)
-
+   * [Remove-SPSite](20150630/README.md)
