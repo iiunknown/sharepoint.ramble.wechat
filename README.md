@@ -104,5 +104,5 @@
 * [20150625 SharePoint Feature Tool](20150625/README.md)
 * [20150626 Integrating SharePoint with OAM](20150626/README.md)
 * [20150629 合并Url：SPUtility.ConcatUrls](20150629/README.md)
-* [PowerShell命令系列 (8) Remove-SPSite](20150630/README.md)
-* [TimerJob的调度](20150701/README.md)
+* [20150630 PowerShell命令系列 (8) Remove-SPSite](20150630/README.md)
+* [20150701 TimerJob的调度](20150701/README.md)
