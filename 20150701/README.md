@@ -7,9 +7,11 @@
 ##SPJobDefinition
  关键在于[SPJobDefinition](https://msdn.microsoft.com/en-us/library/ms427704.aspx)（开发TimerJob须要新建类并继承SPJobDefinition）构造函数的两个参数：[SPServer](https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spserver.aspx)和[SPJobLockType](https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spjoblocktype.aspx)。
 
-**SPServer**   将该TimerJob安装到指定的服务器上。若传NULL值，则会将TimerJob安装到SPFarm的所有服务器上
+###SPServer
+将该TimerJob安装到指定的服务器上。若传NULL值，则会将TimerJob安装到SPFarm的所有服务器上。
 
-**SPJobLockType**   枚举类型
+###SPJobLockType
+枚举类型。
 
 - `SPJobLockType.None`   TimerJob将会运行在所有安装此TimerJob的服务器上：若安装在n台服务器上，系统每次调用[SPJobDefinition.Execute](https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spjobdefinition.execute.aspx)，则此TimerJob会执行n次
 
