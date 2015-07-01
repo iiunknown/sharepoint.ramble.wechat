@@ -17,7 +17,7 @@
 
 ##贡献者
 * [iiunknown](https://github.com/iiunknown)
-* [sujingjiang](https://github.com/sujingjiang)
+* [jingnansu](https://github.com/jingnansu)
 * [Melody](https://github.com/melodytu)
 * [lostcowteng](https://github.com/lostcowteng)
 
@@ -92,3 +92,16 @@
 * [20150608 灵活运用VS外部工具：获取程序集全名称](20150608/README.md)
 * [20150609 PowerShell命令系列 (5) New-SPSite](20150609/README.md)
 * [20150610 无码制作一个InfoPath LOV](20150610/README.md)
+* [20150611 灵活运用VS外部工具：Copy assembly to GAC](20150611/README.md)
+* [20150612 PowerShell命令系列 (6) Get-SPSite &amp; Set-SPSite](20150612/README.md)
+* [20150615 SharePoint Manager 2013](20150615/README.md)
+* [20150616 PowerShell命令系列 (7) Move-SPSite](20150616/README.md)
+* [20150617 页面访问授权的秘密：SPUtility.EnsureAuthentication](20150617/README.md)
+* [20150618 获取登录用户显示名：SPUtility.GetDisplayUserName](20150618/README.md)
+* [20150619 捞数据请节制——SPList阈值](20150619/README.md)
+* [20150623 SharePoint配套产品概览](20150623/README.md)
+* [20150624 LINQ to SharePoint](20150624/README.md)
+* [20150625 SharePoint Feature Tool](20150625/README.md)
+* [20150626 Integrating SharePoint with OAM](20150626/README.md)
+* [20150629 合并Url：SPUtility.ConcatUrls](20150629/README.md)
+* [PowerShell命令系列 (8) Remove-SPSite](20150630/README.md)

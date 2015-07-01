@@ -1,4 +1,5 @@
 # 如何修改管理中心端口号
+	作者：jingnansu
 
 有时候我们出于一些迫不得已的情况需要更改CA端口号, 我们可以使用PowerShell命令来达到我们的目的:      
 Set-SPCentralAdministration -Port <PortNumber>      

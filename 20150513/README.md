@@ -1,5 +1,5 @@
 # 如何修改SharePoint服务器数据库连接字符串
-	作者：sujingjiang
+	作者：jingnansu
 
 在初始安装SharePoint的时候，大家都输入了一个数据库服务器的地址，这串连接字符串保存在什么地方？可以修改吗？
 
