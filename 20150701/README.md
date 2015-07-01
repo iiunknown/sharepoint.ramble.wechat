@@ -1,4 +1,4 @@
-#多服务器架构下的TimerJob
+#TimerJob的调度
 	作者:柒月
 如何开发SharePoint TimerJob，请参考[霖雨大神的博客](http://www.cnblogs.com/jianyus/)——[SharePoint 2013 图文开发系列之计时器任务](http://www.cnblogs.com/jianyus/p/3458535.html)。
 
