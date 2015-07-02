@@ -7,5 +7,7 @@
    * [SPUtility.CreateISO8601DateTimeFromSystemDateTime](sharepointutilities/sputility1.md)
    * [SPUtility.EnsureAuthentication](sharepointutilities/sputility2.md)
    * [SPUtility.GetDisplayUserName](sharepointutilities/sputility3.md)
-   * [SPUtility:ConcatUrls](sharepointutilities/sputility4.md)
+   * [SPUtility.ConcatUrls](sharepointutilities/sputility4.md)
+   * [SPUtility.FormatDate](sharepointutilities/sputility5.md)
+   * [SPUtility.FormatSize](sharepointutilities/sputility.md)
 
