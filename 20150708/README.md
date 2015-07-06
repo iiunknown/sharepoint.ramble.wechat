@@ -21,6 +21,7 @@ Windows 8或者Windows Server 2012: 已经内置PowerShell 3.0, 可以升级为4
 Windows 8.8或者Windows Server 2012 R2: 已经内置PowerShell 4.0.
 
 各个版本的下载链接如下:     
+
 [PowerShell 1.0](http://www.microsoft.com/zh-cn/download/details.aspx?id=9591 "PowerShell 1.0")
 
 [PowerShell 2.0](http://www.microsoft.com/zh-CN/download/details.aspx?id=9864 "PowerShell 2.0")
