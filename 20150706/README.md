@@ -5,8 +5,8 @@
 
 下面为大家介绍"[Active Directory Tools For SharePoint](https://adselfservice.codeplex.com/ "Active Directory Tools For SharePoint")", 老外的东西就是界面比较"简洁", 大家可以点击链接看看.
 
-![](imgs/20150707.1.png)
+![](imgs/20150706.1.png)
      
-![](imgs/20150707.2.png)
+![](imgs/20150706.2.png)
 
 enjoy SharePoint
