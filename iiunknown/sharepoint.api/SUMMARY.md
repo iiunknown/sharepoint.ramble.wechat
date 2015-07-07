@@ -10,4 +10,5 @@
    * [SPUtility.ConcatUrls](sharepointutilities/sputility4.md)
    * [SPUtility.FormatDate](sharepointutilities/sputility5.md)
    * [SPUtility.FormatSize](sharepointutilities/sputility.md)
+   * [SPUtility.GetGenericSetupPath](sharepointutilities/sputility7.md)
 

@@ -1,5 +1,4 @@
 # 获取目录在SharePoint安装路径下的全路径：SPUtility.GetGenericSetupPath
-    作者：杨柳@水杉网络
 
 ## 基本信息
 程序集

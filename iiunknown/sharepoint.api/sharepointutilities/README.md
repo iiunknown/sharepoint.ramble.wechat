@@ -13,3 +13,4 @@
 - [SPUtility.ConcatUrls](sputility4.md)：合并Url
 - [SPUtility.FormatDate](sputility5.md)：格式化日期时间
 - [SPUtility.FormatSize](sputility6.md)：友好显示字节长度
+- [SPUtility.GetGenericSteupPath](sputility7.md)：获取目录在SharePoint安装路径下的全路径：SPUtility.GetGenericSetupPath
