@@ -55,3 +55,5 @@
 * [格式化日期时间：SPUtility.FormatDate](20150702/README.md)
 * [友好显示字节长度：SPUtility.FormatSize](20150703/README.md)
 * [Active Directory Tools For SharePoint](20150706/README.md)
+* [获取目录在SharePoint安装路径下的全路径：SPUtility.GetGenericSetupPath](20150707/README.md)
+
