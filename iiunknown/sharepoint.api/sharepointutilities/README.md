@@ -8,3 +8,9 @@
 
 - [SPHttpUtility.HtmlDecode](sphttputility2.md)：Html编码字符解码方法
 - [SPUtility.CreateISO8601DateTimeFromSystemDateTime](sputility1.md): 系统日期转化为ISO88601日期格式字符串
+- [SPUtility.EnsureAuthentication](sputility2.md): 页面访问授权判断
+- [SPUtility.GetDisplayUserName](sputility3.md)：获取用户显示名
+- [SPUtility.ConcatUrls](sputility4.md)：合并Url
+- [SPUtility.FormatDate](sputility5.md)：格式化日期时间
+- [SPUtility.FormatSize](sputility6.md)：友好显示字节长度
+- [SPUtility.GetGenericSteupPath](sputility7.md)：获取目录在SharePoint安装路径下的全路径：SPUtility.GetGenericSetupPath

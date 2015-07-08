@@ -1,5 +1,5 @@
 # 怎么在 InfoPath Web 浏览器表单中弹出对话框?
-	作者：sujingjiang
+	作者：jingnansu
 
 在启用浏览器兼容模式的InfoPath表单是不能直接使用类似ASP.NET那种方式弹出对话框的, 那么我们是不是就不能弹出对话框了呢? 答案当然不是.
 
