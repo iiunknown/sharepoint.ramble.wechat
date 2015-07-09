@@ -4,7 +4,9 @@
 
 本着“我不造轮子，我只做轮子的搬运工”的人生目标，接下来，我们一起看一看几位大神编写的CAML生成类。同样，它使开发者无需关心CAML语句如何编写，而更专注于业务逻辑的实现，并且看起来更加轻巧、灵活。
 
-###[CAML.NET](http://camldotnet.codeplex.com/)
+###CAML.NET
+
+引用：[http://camldotnet.codeplex.com/](http://camldotnet.codeplex.com/)
 
 例：
 ``` C#
@@ -51,7 +53,9 @@ string simpleQuery =
    </OrderBy>
 </Query>
 ```
-###[Camlex.NET](http://camlex.codeplex.com/)
+###Camlex.NET
+
+引用：[http://camlex.codeplex.com/](http://camlex.codeplex.com/)
 
 例：
 ``` C#
@@ -81,7 +85,9 @@ var caml =
 </Where>
 ```
 
-###[Caml Query](https://camlquery.codeplex.com/)
+###Caml Query
+
+引用：[https://camlquery.codeplex.com/](https://camlquery.codeplex.com/)
 
 例：
 ``` C#
@@ -117,7 +123,10 @@ ListQuery
 </Where>
 ```
 
-##[CAML Builder](http://blog.163.com/chinaren_bjr/blog/static/16989137201251010335793/)
+###CAML Builder
+
+引用：[http://blog.163.com/chinaren_bjr/blog/static/16989137201251010335793/](http://blog.163.com/chinaren_bjr/blog/static/16989137201251010335793/)
+
 例：
 ``` C#
 Query = CAMLBuilder.BuildQuery(
