@@ -54,7 +54,7 @@ public static string CombineUrl(string baseUrlPath, string additionalNodes)
 
 
 ## 使用场景
-此方法的目的在于确保Url的两部分字符串连接的时候只能出现一个"/"符号，正如前面的介绍，这是由于SharePoint资源Url存储的特殊性决定的。比如下面截取乐`Microsoft.SharePoint.ProjectPolicyUtility`类中使用此方法的方式：
+此方法的目的在于确保Url的两部分字符串连接的时候只能出现一个"/"符号，正如前面的介绍，这是由于SharePoint资源Url存储的特殊性决定的。比如下面截取了`Microsoft.SharePoint.ProjectPolicyUtility`类中使用此方法的方式：
 
 ``` c#
 //获取列表 PackageList 的服务器端相对路径
