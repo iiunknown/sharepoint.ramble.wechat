@@ -56,4 +56,9 @@
 * [友好显示字节长度：SPUtility.FormatSize](20150703/README.md)
 * [Active Directory Tools For SharePoint](20150706/README.md)
 * [获取目录在SharePoint安装路径下的全路径：SPUtility.GetGenericSetupPath](20150707/README.md)
-
+* [PowerShell介绍 第一回 "Shell Everything"](20150708/README.md)
+* [几个开源的CAML生成类](20150709/README.md)
+* [PowerShell介绍 第二回 "PowerShell执行策略"](20150710/README.md)
+* [浅析场解决方案部署位置](20150713/README.md)
+* [Google Analytics For SharePoint](20150714/README.md)
+* [PowerShell介绍 第三回 "PowerShell导入导出"](20150715/README.md)
