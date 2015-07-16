@@ -1,4 +1,5 @@
 #使用WebClient读取SharePoint文件
+    作者：柒月
 在某些情境下，我们可能需要外部系统访问SharePoint文档库中的文件。若拥有文件完整Url，我们可以通过WebClient去访问文件。
 ###访问
 与SP客户端对象模型一样，若与SharePoint不在同一域下，需要先解决认证问题：
