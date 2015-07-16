@@ -5,10 +5,10 @@
 ``` C#
 string url="http://spserver/DocLib/Pic1.png"; //DocLib是文档库名；Pic1.png是文件名
 WebClient client = new WebClient();
-client.Credentials = new NetworkCredential("UserName","Password","Domain");
+client.Credentials = new NetworkCredential("UserName","Password","Domain"); //AD环境 模拟登陆
 
 //ClientContext context = new ClientContext("http://spserver"); //SharePoint客户端对象模型
-//context.Credentials = new NetworkCredential("UserName","Password","Domain"); //AD环境
+//context.Credentials = new NetworkCredential("UserName","Password","Domain"); 
 
 byte[] data = client.DownloadData(url);//下载文件
 ```
