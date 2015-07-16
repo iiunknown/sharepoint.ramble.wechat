@@ -62,3 +62,4 @@
 * [浅析场解决方案部署位置](20150713/README.md)
 * [Google Analytics For SharePoint](20150714/README.md)
 * [PowerShell介绍 第三回 "PowerShell导入导出"](20150715/README.md)
+* [使用WebClient读取SharePoint文件](20150716/README.md)
