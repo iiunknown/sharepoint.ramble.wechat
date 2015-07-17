@@ -9,7 +9,7 @@ WebClient client = new WebClient();
 client.Credentials = new NetworkCredential("UserName","Password","Domain"); //AD环境 传递身份信息
 
 //ClientContext context = new ClientContext("http://spserver"); //SharePoint客户端对象模型
-//context.Credentials = new NetworkCredential("UserName","Password","Domain"); 
+//context.Credentials = new NetworkCredential("UserName","Password","Domain");
 
 byte[] data = client.DownloadData(url);//下载文件
 ```
@@ -22,7 +22,7 @@ Response.End();
 ```
 
 若需要下载，则使用如下代码：
-``` C#           
+``` C#
 Response.ContentType = "application/octet-stream";
 //通知浏览器下载文件而不是打开
 Response.AddHeader("Content-Disposition", "attachment; filename="+FileName);

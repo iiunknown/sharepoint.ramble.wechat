@@ -117,3 +117,4 @@
 * [20150714 Google Analytics For SharePoint](20150714/README.md)
 * [20150715 PowerShell介绍 第三回 "PowerShell导入导出"](20150715/README.md)
 * [20150716 使用WebClient读取SharePoint文件](20150716/README.md)
+* [20150717 判断传出电子邮件是否配置：SPUtility.IsEmailServerSet](20170717/README.md)
