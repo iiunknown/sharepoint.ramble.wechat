@@ -66,4 +66,5 @@
 * [判断传出电子邮件是否配置：SPUtility.IsEmailServerSet](20150717/README.md)
 * [PowerShell介绍 第四回 比较符、逻辑符和运算符](20150720/README.md)
 * [PowerShell命令系列 (9) New-SPWeb](20150721/README.md)
+* [SPField.InternalName命名规则探索](20150722/README.md)
 
