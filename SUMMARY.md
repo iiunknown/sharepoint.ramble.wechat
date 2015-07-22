@@ -64,4 +64,6 @@
 * [PowerShell介绍 第三回 "PowerShell导入导出"](20150715/README.md)
 * [使用WebClient读取SharePoint文件](20150716/README.md)
 * [判断传出电子邮件是否配置：SPUtility.IsEmailServerSet](20150717/README.md)
+* [PowerShell介绍 第四回 比较符、逻辑符和运算符](20150720/README.md)
+* [PowerShell命令系列 (9) New-SPWeb](20150721/README.md)
 
