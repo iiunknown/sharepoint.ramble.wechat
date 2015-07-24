@@ -12,7 +12,7 @@
 msbuild /t:Package "ProjectFilePath"
 ```
 ##拓展
-以上示例仅是展示MSBuild最基本的用法。在使用MSBuild的基础上，配合源代码管理和强大的PowerShell，我们可以将发布的工作自动化、脚本化，极大地减少错误几率，提高生活质量 :)。
+以上示例仅是展示MSBuild最基本的用法。在使用MSBuild的基础上，配合源代码管理和强大的PowerShell，我们可以将发布的工作自动化、脚本化，极大地减少错误几率，提高生活质量。 :)
 
 推荐文章:
 
