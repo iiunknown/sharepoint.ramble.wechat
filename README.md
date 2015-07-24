@@ -117,7 +117,10 @@
 * [20150714 Google Analytics For SharePoint](20150714/README.md)
 * [20150715 PowerShell介绍 第三回 "PowerShell导入导出"](20150715/README.md)
 * [20150716 使用WebClient读取SharePoint文件](20150716/README.md)
-* [20150717 判断传出电子邮件是否配置：SPUtility.IsEmailServerSet](20170717/README.md)
+* [20150717 判断传出电子邮件是否配置：SPUtility.IsEmailServerSet](20150717/README.md)
 * [20150720 PowerShell介绍 第四回 比较符、逻辑符和运算符](20150720/README.md)
 * [20150721 PowerShell命令系列 (9) New-SPWeb](20150721/README.md)
 * [20150722 SPField.InternalName命名规则探索](20150722/README.md)
+* [20150724 使用MSBuild打包SharePoint项目](20150724/README.md)
+
+
