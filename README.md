@@ -123,5 +123,8 @@
 * [20150722 SPField.InternalName命名规则探索](20150722/README.md)
 * [20150724 使用MSBuild打包SharePoint项目](20150724/README.md)
 * [20150727 获取网站数据库服务器当前时间：SPUtility.GetServerNow](20150727/README.md)
+* [20150728 Get-SPWeb & Set-SPWeb](20150728/README.md)
+* [20150729 PowerShell介绍 第六回 WMI介绍](20150729/README.md)
+* [20150730 SharePoint备用访问映射](20150730/README.md)
 
 
