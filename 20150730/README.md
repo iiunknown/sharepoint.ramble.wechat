@@ -11,7 +11,7 @@
 
 2. 访问到了正确的Web应用程序，SharePoint还得知道客户端需要什么样的内容，这里的内容是指页面上的链接。例如：以`http://yum-tim/xxxxx` 访问SharePoint资源，它查找AAM表后，发现相应的`区域的公用 URL`是`http://yum-tim` ，那么在返回的页面上所有的链接都会`http://yum-tim` 开头。看起来理所应当，但是作用呢？请看第三个红框：假设两台Web服务器做负载均衡，当客户端使用`http://www.thecompany.com/xxxx `请求时，负载均衡将我的请求转发给了`server1`，此时请求的URL发生了变化(变成`http://server1/xxxx`)，但根据AAM，SharePoint返回页面的链接全部被转化成了`http://www.thecompany.com/xxxx` ，对于客户端来说，这转化后的链接才能愉快地进行再一次的访问。
 
-##PowerShell操作AAM
+###附：PowerShell操作AAM
 - [New-SPAlternateUrl](https://technet.microsoft.com/zh-cn/library/ff607632.aspx)
 - [Get-SPAlternateURL](https://technet.microsoft.com/zh-cn/library/ff607923.aspx)
 - [Set-SPAlternateUrl](https://technet.microsoft.com/zh-cn/library/ff607746.aspx) 
