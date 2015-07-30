@@ -10,3 +10,4 @@
    * [Move-SPSite](20150616/README.md)
    * [Remove-SPSite](20150630/README.md)
    * [New-SPWeb](20150721/README.md)
+   * [Get-SPWeb &amp; Set-SPWeb](20150728/README.md)

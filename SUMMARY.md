@@ -67,4 +67,6 @@
 * [PowerShell介绍 第四回 比较符、逻辑符和运算符](20150720/README.md)
 * [PowerShell命令系列 (9) New-SPWeb](20150721/README.md)
 * [SPField.InternalName命名规则探索](20150722/README.md)
-
+* [使用MSBuild打包SharePoint项目](20150724/README.md)
+* [获取网站数据库服务器当前时间：SPUtility.GetServerNow](20150727/README.md)
+* [PowerShell命令系列 (10) Get-SPWeb & Set-SPWeb](20150728/README.md)
