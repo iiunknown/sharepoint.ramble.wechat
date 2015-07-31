@@ -13,7 +13,7 @@
 > 静态方法
 
 ## 介绍
-文档库是SharePoint的重要功能之一，几乎贯穿了整个SharePoint十多年的生命周期。文档库的基本功能就是保存文件，对于上传到文档库的文件名一定会做合规检查，那么在开发过程中SharePoint提供了这样的方法供我们使用。
+文档库是SharePoint的重要功能之一，几乎贯穿了整个SharePoint十多年的生命周期。文档库的基本功能就是保存文件，对于上传到文档库的文件名一定会做合规检查，在开发过程中SharePoint提供了这样的方法供我们使用。
 
 ## 方法
 位于Microsoft.SharePoint.Utilities.SPUrlUtility类，具体描述如下：
