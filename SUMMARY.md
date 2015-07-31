@@ -72,3 +72,5 @@
 * [PowerShell命令系列 (10) Get-SPWeb & Set-SPWeb](20150728/README.md)
 * [PowerShell介绍 第六回 WMI介绍](20150729/README.md)
 * [SharePoint备用访问映射](20150730/README.md)
+* [20150731](20150731/README.md)
+

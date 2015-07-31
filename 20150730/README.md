@@ -14,6 +14,6 @@
 ###附：PowerShell操作AAM
 - [New-SPAlternateUrl](https://technet.microsoft.com/zh-cn/library/ff607632.aspx)
 - [Get-SPAlternateURL](https://technet.microsoft.com/zh-cn/library/ff607923.aspx)
-- [Set-SPAlternateUrl](https://technet.microsoft.com/zh-cn/library/ff607746.aspx) 
+- [Set-SPAlternateUrl](https://technet.microsoft.com/zh-cn/library/ff607746.aspx)
 - [Remove-SPAlternateUrl](https://technet.microsoft.com/zh-cn/library/ff607587.aspx)
 

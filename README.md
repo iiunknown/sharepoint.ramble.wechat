@@ -126,5 +126,6 @@
 * [20150728 Get-SPWeb & Set-SPWeb](20150728/README.md)
 * [20150729 PowerShell介绍 第六回 WMI介绍](20150729/README.md)
 * [20150730 SharePoint备用访问映射](20150730/README.md)
+* [20150731 判断是否合法文件名：SPUrlUtility.IsLegalFileName](20150730/README.md)
 
 
