@@ -128,5 +128,5 @@
 * [20150730 SharePoint备用访问映射](20150730/README.md)
 * [20150731 判断是否合法文件名：SPUrlUtility.IsLegalFileName](20150730/README.md)
 * [20150803 判断是否是全路径Url：SPUrlUtility.IsUrlFull](20150803/README.md)
-
+* [20150804 SharePoint PowerShell命令系列 (11) Remove-SPWeb](20150804/README.md)
 
