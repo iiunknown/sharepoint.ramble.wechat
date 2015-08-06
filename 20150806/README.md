@@ -15,7 +15,7 @@
 1. [运行预先部署命令](https://msdn.microsoft.com/en-us/library/ee231534.aspx)
 2. 生成项目，打包项目
 2. 回收IIS应用程序
-3. 收回解决方案：[停用SPFeature](https://technet.microsoft.com/en-us/library/ff607879.aspx)，[卸载SPFeature](https://technet.microsoft.com/en-us/library/ff607614.aspx),[卸载解决方案](https://technet.microsoft.com/zh-cn/library/ff607873.aspx)，[删除解决方案](https://technet.microsoft.com/zh-cn/library/ff607748.aspx)
-4. 添加解决方案：[添加解决方案](https://technet.microsoft.com/zh-cn/library/ff607552.aspx)，[安装解决方案](https://technet.microsoft.com/zh-cn/library/ff607534.aspx)，[安装功能](https://technet.microsoft.com/en-us/library/ff607825.aspx)
-5. [激活功能](https://technet.microsoft.com/en-us/library/ff607803.aspx)
+3. 收回解决方案：[停用SPFeature](https://technet.microsoft.com/en-us/library/ff607879.aspx)，[卸载SPFeature](https://technet.microsoft.com/en-us/library/ff607614.aspx)，[卸载解决方案](https://technet.microsoft.com/zh-cn/library/ff607873.aspx)，[删除解决方案](https://technet.microsoft.com/zh-cn/library/ff607748.aspx)
+4. 添加解决方案：[添加解决方案](https://technet.microsoft.com/zh-cn/library/ff607552.aspx)，[安装解决方案](https://technet.microsoft.com/zh-cn/library/ff607534.aspx)，[安装SPFeature](https://technet.microsoft.com/en-us/library/ff607825.aspx)
+5. [激活SPFeature](https://technet.microsoft.com/en-us/library/ff607803.aspx)
 6. [运行后期部署命令](https://msdn.microsoft.com/en-us/library/ee231534.aspx)
