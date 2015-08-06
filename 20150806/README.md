@@ -5,7 +5,9 @@
 
 ###SharePoint部署配置
 我们可以通过以下步骤查看SharePoint部署配置：右键SharePoint项目->属性->点击SharePoint Tab页->查看`默认`配置：
-![](imgs/20150720_1.png)
+
+![](imgs/20150806.jpg)
+
 当然，我们也可以对此步骤进行自定义的修改：[如何编辑SharePoint部署配置](https://msdn.microsoft.com/en-us/library/ee231587.aspx)。
 ###查看输出窗口
 使用VS部署时，通过输出窗口，对照上面的部署配置，我们可以看到做了哪些操作：
