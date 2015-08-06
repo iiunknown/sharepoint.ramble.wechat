@@ -75,3 +75,5 @@
 * [判断是否合法文件名：SPUrlUtility.IsLegalFileName](20150731/README.md)
 * [判断是否是全路径Url：SPUrlUtility.IsUrlFull](20150803/README.md)
 * [SharePoint PowerShell命令系列 (11) Remove-SPWeb](20150804/README.md)
+* [SharePoint PowerShell介绍 第七回 变量](20150805/README.md)
+* [SharePoint VS部署SharePoint解决方案](20150806/README.md)
