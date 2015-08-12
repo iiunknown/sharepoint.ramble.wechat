@@ -78,3 +78,5 @@
 * [PowerShell介绍 第七回 变量](20150805/README.md)
 * [VS部署SharePoint解决方案](20150806/README.md)
 * [使用VS附加到进程的时候如何选择正确的W3WP进程?](20150811/README.md)
+* [设置当前访问线程的语言：SPUtility.SetThreadCulture](20150812/README.md)
+
