@@ -131,4 +131,4 @@
 * [20150804 SharePoint PowerShell命令系列 (11) Remove-SPWeb](20150804/README.md)
 * [20150805 PowerShell介绍 第七回 变量](20150805/README.md)
 * [20150806 VS部署SharePoint解决方案](20150806/README.md)
-
+* [20150811 使用VS附加到进程的时候如何选择正确的W3WP进程?](20150811/README.md)
