@@ -82,8 +82,8 @@
 * [如何修改页面左上角的“SharePoint Logo”引发的...](20150813/README.md)
 * [PowerShell介绍 第八回 数组](20150814/README.md)
 * [检查SharePoint代码中对象是否释放的小工具](20150817/README.md)
-* [New-SPWebApplication](20150817/README.md)
-* [PowerShell介绍 第九回 哈希表](20150817/README.md)
-* [网站栏 Site Column](20150817/README.md)
-* [PowerShell介绍 第十回 管道符](20150817/README.md)
+* [New-SPWebApplication](20150825/README.md)
+* [PowerShell介绍 第九回 哈希表](20150826/README.md)
+* [网站栏 Site Column](20150827/README.md)
+* [PowerShell介绍 第十回 管道符](20150828/README.md)
 
