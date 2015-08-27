@@ -10,18 +10,18 @@
 ###作用范围
 在网站上创建一个网站栏时，该网站栏也将对其所有子网站可用，也就是说，子网站的列表和内容类型也可以引用这个网站栏。
 
-###属性
-- 名称，网站栏的Internal Name在其作用范围之内必须是唯一的
-- 数据类型，如：单行文本，多行文本，查阅项，数字，日期 等
-- 组，将网站栏进行分类管理
-- 其他设置，如：栏验证，默认值 等
+###网站栏的属性
+- **名称**，网站栏的`Name`属性在其*作用范围*之内必须是唯一的
+- **数据类型**，如：单行文本，多行文本，查阅项，数字，日期 等
+- **组**，将网站栏进行分类管理
+- **其他设置**，如：栏验证，默认值 等
 
 
 ##如何创建网站栏
 
-- SharePoint用户界面 网站设置->网站栏->创建
+- **SharePoint用户界面** 网站设置->网站栏->创建
 
-- 对象模型 例：
+- **对象模型** 例：
 
 ``` C#
 RunWithElevatedPrivileges(delegate()
@@ -55,7 +55,7 @@ RunWithElevatedPrivileges(delegate()
 - See more at: http://www.sharepointpals.com/post/Create-a-Site-Column-in-SharePoint-2010#sthash.rMRlH8jo.dpuf
 ```
 
-- PowerShell 例：
+- **PowerShell** 例：
 ```
  $site = Get-SPSite -Identity "http://sfs03-pc:12121/sites/Samples/"
  $web = $site.RootWeb
@@ -75,7 +75,7 @@ RunWithElevatedPrivileges(delegate()
  $site.Dispose()
 - See more at: http://www.sharepointpals.com/post/Create-a-Site-Column-in-SharePoint-2010#sthash.rMRlH8jo.dpuf
 ```
-- Visual Studio中定义（XML） SharePoint项目（VS2013）->添加->新建项->网站栏 编辑Elements.xml 例：
+- **Visual Studio中定义（XML）** SharePoint项目（VS2013）->添加->新建项->网站栏 编辑Elements.xml 例：
 ``` XML
 <?xml version="1.0" encoding="utf-8"?>
 <Elements xmlns="http://schemas.microsoft.com/sharepoint/">
