@@ -4,7 +4,7 @@
 
 ## 安装前提
 * 硬件：虚拟机，4核CPU，8G内存，256G固态硬盘
-* 操作系统：Windows Server 2013 R2 Standard
+* 操作系统：Windows Server 2012 R2 Standard
 * 数据库：Sql Server 2012 Standard
 * SharePoint：SharePoint 2016 IT Preview
 
