@@ -86,4 +86,5 @@
 * [PowerShell介绍 第九回 哈希表](20150826/README.md)
 * [网站栏 Site Column](20150827/README.md)
 * [PowerShell介绍 第十回 管道符](20150828/README.md)
+* [SharePoint 2016 IT Preview 初体验](20150831/README.md)
 
