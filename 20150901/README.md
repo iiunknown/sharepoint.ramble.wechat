@@ -25,8 +25,8 @@ Module像是一个容器，负责将包含其中的文件一一推送至指定�
 </Elements>
 ```
 
-- `Module`节点。`Name`指定此模块的名称；`Url`指定此模块部署的相对路径；`RootWebOnly`指定此模块是否只推送至根网站。详见：[Module Element](https://msdn.microsoft.com/en-us/library/office/ms434127.aspx)
-- `File`节点。`Path`描述此文件的相对路径（相对于`%ProgramFiles%\Common Files\Microsoft Shared\web server extensions\15\TEMPLATE\Features\Feature`）；`Url`相对于`Module Url`的相对路径；`Type`指定此文件的部署类型，当指定为`GhostableInLibrary`时，表示此文件将作为文档库的Item；`ReplaceContent`表示，若文件已被应用或占用，是否强制重新部署。详见：[File Element](https://msdn.microsoft.com/en-us/library/office/ms459213.aspx)
+- `Module`节点。`Name`：指定此模块的名称；`Url`：指定此模块部署的相对路径；`RootWebOnly`：指定此模块是否只推送至根网站。详见：[Module Element](https://msdn.microsoft.com/en-us/library/office/ms434127.aspx)
+- `File`节点。`Path`：描述此文件的相对路径（相对于`%ProgramFiles%\Common Files\Microsoft Shared\web server extensions\15\TEMPLATE\Features\Feature`）；`Url`：相对于`Module Url`的相对路径；`Type`：指定此文件的部署类型，当指定为`GhostableInLibrary`时，表示此文件将作为文档库的Item；`ReplaceContent`：表示，若文件已被应用或占用，是否强制重新部署。详见：[File Element](https://msdn.microsoft.com/en-us/library/office/ms459213.aspx)
 - `Property`节点。`Name`和`Value`描述其父级`File`节点的自定义属性。详见[Property Element](https://msdn.microsoft.com/en-us/library/office/cc264281.aspx)
 
 
