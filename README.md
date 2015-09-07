@@ -142,3 +142,5 @@
 * [20150828 PowerShell介绍 第十回 管道符](20150828/README.md)
 * [20150831 SharePoint 2016 IT Preview 初体验](20150831/README.md)
 * [20150901 使用Module（模块）推送文件至SharePoint](20150901/README.md)
+* [20150901 PowerShell介绍 第十一回 对象](20150902/README.md)
+* [20150907 维护SharePoint Web应用程序的Web.config文件](20150907/README.md)
