@@ -96,3 +96,5 @@ RunWithElevatedPrivileges(delegate()
   <!--SYS_LookupTypes_ContentType Columns Start-->
 </Elements>
 ```
+
+参考：[Field Element (Field)](https://msdn.microsoft.com/en-us/library/office/aa979575.aspx)
