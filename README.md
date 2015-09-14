@@ -142,5 +142,10 @@
 * [20150828 PowerShell介绍 第十回 管道符](20150828/README.md)
 * [20150831 SharePoint 2016 IT Preview 初体验](20150831/README.md)
 * [20150901 使用Module（模块）推送文件至SharePoint](20150901/README.md)
-* [20150901 PowerShell介绍 第十一回 对象](20150902/README.md)
+* [20150902 PowerShell介绍 第十一回 对象](20150902/README.md)
 * [20150907 维护SharePoint Web应用程序的Web.config文件](20150907/README.md)
+* [20150908 AD域信息查询工具](20150908/README.md)
+* [20150909 PowerShell实战 第一回 管理AD组对象](20150909/README.md)
+* [20150910 对比工具——Beyond Compare](20150910/README.md)
+* [20150912 PowerShell实战 第二回 管理AD用户对象](20150912/README.md)
+
