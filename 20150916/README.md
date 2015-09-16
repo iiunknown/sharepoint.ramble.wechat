@@ -1,4 +1,4 @@
-# PowerShell实战 第二回 管理AD OU对象
+# PowerShell实战 第三回 管理AD OU对象
     作者：小敏
 
 Hello，大家好。今天来学习下powershell管理OU对象的相关命令
