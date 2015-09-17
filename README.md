@@ -148,4 +148,7 @@
 * [20150909 PowerShell实战 第一回 管理AD组对象](20150909/README.md)
 * [20150910 对比工具——Beyond Compare](20150910/README.md)
 * [20150912 PowerShell实战 第二回 管理AD用户对象](20150912/README.md)
+* [20150915 Get-SPWebApplication & Set-SPWebApplication](20150915/README.md)
+* [20150916 PowerShell实战 第三回 管理AD OU对象](20150916/README.md)
+* [20150917 Everything Search Engine](20150917/README.md)
 
