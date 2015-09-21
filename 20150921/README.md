@@ -5,4 +5,4 @@
 
 ## 简介
 
-在号称全宇宙无敌的IDE VS中，SharePoint照例提供了开发工具包，
+在号称全宇宙无敌人见人爱花见花开的最强IDE -- Vistual Studio中，SharePoint照例提供了开发工具包。我们可以使用它进行常见的SharePoint开发，比如创建场解决方案，开发WebPart，实现网站页面，做应用程序页面，创建timerjob等。VS一定程度上会帮助我们构建解决方案包包含的Feature, Package（本质上是xml配置文件，有可视化工具效率更高）
