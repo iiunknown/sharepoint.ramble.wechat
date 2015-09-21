@@ -25,3 +25,6 @@ Install-SPFeature -path "MyCustomFeature" -Force
 ## 解决问题
 
 本质上通过VS的部署操作最后也是调用了Powershell命令，出于对此的了解，我们想在VS上的某个地方，一定有对此命令参数的设置。
+
+打开VS，找到报错提示对应的Feature，双击打开Feature，此时该Feature的配置页面处于打开且聚焦状态，按F4，弹出属性窗口，其中 `始终强制安装` 设置为 `True`，如下图：
+![Feature 始终强制安装设置](imgs\001.png)
