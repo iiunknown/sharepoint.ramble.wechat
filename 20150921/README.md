@@ -10,7 +10,12 @@
 
     A feature with ID [GUID] has already been installed in this farm.  Use the force attribute to explicitly re-install the feature.
 
-有经验的开发人员知道，可以使用Powershell加上参数进行强制部署，那在VS中，我们该如何处理呢？
+有经验的开发人员知道，可以使用Powershell加上参数进行强制部署。
+
+```powershell
+Install-SPFeature -path "MyCustomFeature" -Force
+```
+那在VS中，我们该如何处理呢？
 
 ## 解决问题
 
