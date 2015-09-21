@@ -10,7 +10,10 @@
 
     A feature with ID [GUID] has already been installed in this farm.  Use the force attribute to explicitly re-install the feature.
 
-出现这个问题的原因
+出现这个问题的原因，是因为SharePoint已经侦测到当前环境中安装过相同ID的Feature，为了防止误操作（出现这个问题多数不是误操作，而是我们必须要安装），默认情况不让继续安装以防止影响当前已有功能。导致产生这样的原因一般是：
+
+* 卸载解决方案包之前没有完全回收Feature，导致Feature有残留。
+* 开发过程中进行过网站集的备份与还原，同样导致Feature没有被卸载或者有残留。
 
 有经验的开发人员知道，可以使用Powershell加上参数进行强制部署。
 
