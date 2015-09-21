@@ -10,6 +10,8 @@
 
     A feature with ID [GUID] has already been installed in this farm.  Use the force attribute to explicitly re-install the feature.
 
+出现这个问题的原因
+
 有经验的开发人员知道，可以使用Powershell加上参数进行强制部署。
 
 ```powershell
