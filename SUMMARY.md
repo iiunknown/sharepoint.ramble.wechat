@@ -101,4 +101,4 @@
 * [在VS中强制部署Feature](20150921/README.md)
 * [SharePoint PowerShell命令系列 (14) Remove-SPWebApplication](20150922/README.md)
 * [VS部署SharePoint解决方案超时解决方法](20151012/README.md)
-
+* [IRM for PDF](20151013/README.md)
