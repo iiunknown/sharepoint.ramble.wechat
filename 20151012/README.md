@@ -23,4 +23,4 @@ Visual Stodio上的SharePoint开发工具实际上是一个独立的开发工具
 
 默认情况下注册表中不会存在此配置项，如果要修改为非默认值，需要手工添加一个名为`ChannelOperationTimeout`的`REG_DWORD`值，如下图：
 
-![注册表配置界面](imgs/1.png)
+![注册表配置界面](1.png)
