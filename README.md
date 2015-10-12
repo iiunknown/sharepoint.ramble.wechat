@@ -154,4 +154,5 @@
 * [20150918 PowerShell实战 第四回 管理AD计算机对象](20150918/README.md)
 * [20150921 在VS中强制部署Feature](20150921/README.md)
 * [20150922 SharePoint PowerShell命令系列 (14) Remove-SPWebApplication](20150922/README.md)
+* [20151012 VS部署SharePoint解决方案超时解决方法](20151012/README.md)
 
