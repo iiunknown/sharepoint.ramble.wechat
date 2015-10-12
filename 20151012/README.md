@@ -1,4 +1,4 @@
-# VS 部署SharePoint解决方案超时解决方法
+# VS部署SharePoint解决方案超时解决方法
 
     作者：杨柳@水杉网络
     
