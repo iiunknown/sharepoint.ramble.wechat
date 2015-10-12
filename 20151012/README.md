@@ -22,3 +22,5 @@ Visual Stodio上的SharePoint开发工具实际上是一个独立的开发工具
 此配置项位于注册表中，路径为`HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\11.0\SharePointTools `。其中11.0的路径节点表示VS的版本号，比如使用VS 2013进行开发，那么就应该调整`HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\12.0\SharePointTools `此路径下的配置项。
 
 默认情况下注册表中不会存在此配置项，如果要修改为非默认值，需要手工添加一个名为`ChannelOperationTimeout`的`REG_DWORD`值，如下图：
+
+![注册表配置界面](imgs/1.png)
