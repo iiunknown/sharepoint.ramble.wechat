@@ -102,3 +102,4 @@
 * [SharePoint PowerShell命令系列 (14) Remove-SPWebApplication](20150922/README.md)
 * [VS部署SharePoint解决方案超时解决方法](20151012/README.md)
 * [IRM for PDF](20151013/README.md)
+* [SharePoint Web Part 客户端管理工具](20151021/README.md)
