@@ -1,11 +1,11 @@
 # SharePoint上下文——SPContext
 	作者：柒月
 
-在SharePoint项目开发过程中，SPContext给我们提供了很多的便利。我们常用SPContext.Current.Web来获取当前SPWeb对象，以及隐藏在SPWeb之下的各种信息。但也别忽略了，SPContext中还有一些其他有意思的属性，合理利用好它们，等于走了捷径。:)
+在SharePoint项目开发过程中，SPContext给我们提供了很多的便利。我们常用`SPContext.Current.Web`来获取当前SPWeb对象，以及隐藏在SPWeb之下的各种信息。但也别忽略了，SPContext中还有一些其他有意思的属性，合理利用好它们，等于走了捷径。:)
 
 ###注意事项
-- EventReceiver和TimerJob中，SPContext.Current为null
-- 使用SPFarm管理员登录时，SPContext.Current.Web.CurrentUser为系统账户（SHAREPOINT\system），此时用HttpContext.Current.User.Identity.Name可获得当前登录名
+- EventReceiver和TimerJob中，`SPContext.Current`为null
+- 使用SPFarm管理员登录时，`SPContext.Current.Web.CurrentUser为`系统账户（SHAREPOINT\system），此时用`HttpContext.Current.User.Identity.Name`可获得当前登录名
 
 ###常用属性
 <table>
@@ -35,17 +35,7 @@
    </tr>
    <tr>
       <td>FormContext</td>
-      <td>在列表项的新增、修改、查看页面时，可以获取当前SPFormContext对象<br/>可以学习一下[Jianyi大神是如何玩这个对象的](http://www.cnblogs.com/jianyi0115/archive/2008/03/12/1102784.html)：<br/>`foreach (BaseFieldControl f in this.ItemContext.FormContext.FieldControlCollection)
-            {
-                try
-                {
-                      //some valid code here --if(f.FieldName="XX") do something...
-
-                    if (!f.Field.ReadOnlyField)
-                        listItem[f.FieldName] = f.Value;
-                }
-                catch (ArgumentException) { }
-            }`</td>
+      <td>在列表项的新增、修改、查看页面时，可以获取当前SPFormContext对象<br/>FormContext.FieldControlCollection：获取当前表单上的字段集合<br/><a href="http://www.cnblogs.com/jianyi0115/archive/2008/08/21/1102784.html">可以围观一下Jianyi大神怎么玩的</a>
    </tr>
    
 </table>
