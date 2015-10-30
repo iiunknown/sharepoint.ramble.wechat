@@ -157,3 +157,4 @@
 * [20151012 VS部署SharePoint解决方案超时解决方法](20151012/README.md)
 * [20151013 IRM for PDF](20151013/README.md)
 * [20151021 SharePoint Web Part 客户端管理工具](20151021/README.md)
+* [20151029 SharePoint上下文——SPContext](20151029/README.md)
