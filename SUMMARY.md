@@ -104,3 +104,4 @@
 * [IRM for PDF](20151013/README.md)
 * [SharePoint Web Part 客户端管理工具](20151021/README.md)
 * [SharePoint上下文——SPContext](20151029/README.md)
+* [SharePoint 前世今生（一）：泡沫中的种子](20151102/README.md)
