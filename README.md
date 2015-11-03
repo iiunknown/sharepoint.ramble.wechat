@@ -158,3 +158,5 @@
 * [20151013 IRM for PDF](20151013/README.md)
 * [20151021 SharePoint Web Part 客户端管理工具](20151021/README.md)
 * [20151029 SharePoint上下文——SPContext](20151029/README.md)
+* [20151102 SharePoint 前世今生（一）：泡沫中的种子](20151102/README.md)
+* [20151103 SharePoint Users AllUsers SiteUsers](20151103/README.md)
