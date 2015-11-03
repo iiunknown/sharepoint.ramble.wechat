@@ -44,6 +44,6 @@
 这时候发现SiteUsers中相比AllUsers多了一个用户.
 
 ## 结束语
-这时候大家应该都清楚为啥SiteUsers的用户集合数>AllUsers>Users了嘛?
+这时候大家应该都清楚从用户数来说: SiteUsers>AllUsers>Users, 还有他们三者之间的差别了嘛?
 
 enjoy SharePoint
