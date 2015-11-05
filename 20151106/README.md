@@ -7,7 +7,7 @@
 
 1. 某文件下下面有文件，命名不规范，现在我们要把他们的名字改成只有6个字，不够的就在前面添加A。超过6位的，跳过不修改。下次再丰富脚本，如何实现超过6的就取前面6位。
 
-##编写脚本
+##1.编写脚本
 
 第一步，由于某文件夹的路径是可变的，那么我们需要先定义一个参数。
 
@@ -46,13 +46,13 @@ $filename=$filename+"A"
 `$logwrite="您在"+$time+"将"+$file.name+"修改为"+$newfilename;`
 `$logwrite | Out-File -Append -FilePath $log;`
 
-## 运行脚本
+## 2.运行脚本
 
 PS C:\Users\administrator> cd c:\1
 
 PS C:\1> .\45678.ps1 -logpath "D:\test" -alog "d:\log\log.txt"
 
-## 完整脚本
+##3.完整脚本
 
 `param
 (
