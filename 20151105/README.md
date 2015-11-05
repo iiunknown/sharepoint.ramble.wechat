@@ -49,7 +49,7 @@ PS C:\1> .\45678.ps1 -filepath "C:\share" -aclfile "c:\log\acl.csv"
 本来是想截图的，但是markdown放图片很不友好，嫌麻烦就写成纯文字了。
 但是以上脚本运行的结果是很不友好的，没有显示哪些权限是哪个文件夹的。以下附上完整的脚本：
 
-`
+```
 param
 (
 $filepath="d:\test",
@@ -71,4 +71,5 @@ $FileSystemRighst=$permission.FileSystemRights;
 $AccessControlType=$permission.AccessControlType;
 "$IdentityReference,$FileSystemRighst,$AccessControlType" | Out-File -Append -FilePath $aclfile
 }
-}`
+}
+```
