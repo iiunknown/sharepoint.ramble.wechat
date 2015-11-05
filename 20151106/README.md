@@ -59,14 +59,25 @@ PS C:\1> .\45678.ps1 -logpath "D:\test" -alog "d:\log\log.txt"
 $logpath="D:\test",
 $log="d:\log\log.txt"
 )`
+
 `$filegroup=Get-childItem -path $logpath *.txt -recurse;`
+
 `foreach ($file in $filegroup){`
+
 `$filelenght=$file.Name.Length;`
+
 `$filename=''`
+
 `for($i=$filelenght;$i -lt 10;$i++){`
+
 `$filename=$filename+"A"}`
+
 `$newfilename=$filename+$file.Name;`
+
 `Rename-Item $file.Name -NewName $newfilename;`
+
 `$time=(get-date).ToString("yyyy-MM-dd HH:mm:ss");`
+
 `$logwrite="您在"+$time+"将"+$file.name+"修改为"+$newfilename;`
+
 `$logwrite | Out-File -Append -FilePath $log;}`
